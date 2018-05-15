@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div align="center"><img src="misc/images/logo.png"/></div>
 
 µWS ("[micro](https://en.wikipedia.org/wiki/Micro-)WS") is a WebSocket and HTTP implementation for clients and servers. Simple, efficient and lightweight.
@@ -38,3 +39,6 @@ A free & open source ([Zlib](LICENSE)) hobby project of [mine](https://github.co
 
 #### Fast does not imply broken.
 Gracefully passes the [entire Autobahn fuzzing test suite](http://htmlpreview.github.io/?https://github.com/uNetworking/uWebSockets/blob/master/misc/autobahn/index.html) with no failures or Valgrind/ASAN errors. With or without SSL/permessage-deflate.
+=======
+# uNetworking-uWebSockets-
+>>>>>>> 83c734848bb55e75c8a4d020da4330dcc574a528
